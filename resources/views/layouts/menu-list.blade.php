@@ -19,7 +19,7 @@
 
 <li class="pc-item">
     <a href="#" class="pc-link">
-        <span class="pc-micon"><i class="ti ti-category"></i></span>
+        <span class="pc-micon"><i class="ti ti-list"></i></span>
         <span class="pc-mtext">Category</span>
     </a>
 </li>
