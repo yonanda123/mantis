@@ -1,3 +1,4 @@
+<!-- layouts.footer-js.blade.php  -->
 <!-- Required JS -->
 <script src="{{ asset('assets/js/plugins/popper.min.js') }}"></script>
 <script src="{{ asset('assets/js/plugins/simplebar.min.js') }}"></script>

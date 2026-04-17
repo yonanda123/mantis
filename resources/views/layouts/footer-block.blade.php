@@ -1,3 +1,4 @@
+<!-- layouts.footer-block.blade.php start -->
 <footer class="pc-footer">
     <div class="footer-wrapper container-fluid">
         <div class="row">

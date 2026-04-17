@@ -1,3 +1,4 @@
+<!-- layouts.sidebar.blade.php -->
 <!-- [ Sidebar Menu ] start -->
 <nav class="pc-sidebar">
     <div class="navbar-wrapper">

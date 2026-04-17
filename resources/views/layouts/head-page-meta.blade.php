@@ -1,4 +1,5 @@
-<title>{{ $title ?? 'Dashboard' }} | Mantis Bootstrap 5 Admin Template</title>
+<!-- layouts.head-page-meta.blade.php  -->
+<title>{{ $title ?? 'Dashboard' }} | Mantis</title>
 
 <!-- [Meta] -->
 <meta charset="utf-8">

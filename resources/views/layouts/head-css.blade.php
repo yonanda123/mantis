@@ -1,3 +1,4 @@
+<!-- layouts.head-css.blade.php  -->
 <!-- [Google Font] Family -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&display=swap"
     id="main-font-link">
